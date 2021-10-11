@@ -1,0 +1,12 @@
+node_modules/
+
+*/*.spec.js
+*/*.spec.ts
+test.js
+test.ts
+*.test.js
+*.test.ts
+
+package-lock.json
+
+*/.git
