@@ -1,16 +1,17 @@
 {
   "name": "easy-logs-js",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
   "scripts": {
     "test": "jest",
     "build": "tsc --declaration",
+    "start": "build:start-test",
     "build:start-test": "tsc --declaration && node test.js",
     "dev": "nodemon --watch \"src//\" --exec \"ts-node src/index.ts\" - e ts"
   },
-  "keywords": [],
+  "keywords": [ "log", "logs", "easy", "easy log", "easy logs" ],
   "author": "",
   "description": "",
   "devDependencies": {
