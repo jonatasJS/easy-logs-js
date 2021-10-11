@@ -30,4 +30,4 @@ Warn() // number | string | object | Array
 ```
 
 ## More Information
-__[onelog](https://github.com/jontasJS/easy-logs-js)__ Node.js logging consolidation library
+__[jonatasJS](https://github.com/jontasJS/easy-logs-js)__ Node.js logging consolidation library
